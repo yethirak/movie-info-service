@@ -12,3 +12,5 @@ eureka:
       defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
   instance:
     preferIpAddress: true
+api:
+  key: "a643f7f70d30eca597b8c9795145d586"
